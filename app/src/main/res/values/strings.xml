@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">三带一的APP</string>
+    <string name="button_login">登录</string>
+    <string name="check_login">自动登录</string>
+    <string name="check_remem">记住密码</string>
+    <string name="welcome">欢迎你，啊啊啊啊啊啊啊啊啊</string>
+    <string name="button_logout">注销</string>
+    <string name="button_red">红外控制</string>
+    <string name="button_home">主页</string>
+    <string name="button_remote">遥控器</string>
+    <string name="non">未命名</string>
+
+
+    <string name="btn_login">登录</string>
+    <string name="btn_relogin">返回登录界面</string>
+    <string name="btn_re">返回</string>
+    <string name="btn_door">进入门磁界面</string>
+    <string name="btn_th">进入温湿界面</string>
+    <string name="btn_redoor">刷新</string>
+</resources>
